@@ -1,6 +1,7 @@
 addict==2.4.0
 attrs==24.2.0
 blinker==1.9.0
+build==1.2.2.post1
 certifi==2024.8.30
 charset-normalizer==3.4.0
 click==8.1.7
@@ -32,9 +33,11 @@ open3d==0.18.0
 packaging==24.2
 pandas==2.2.3
 pillow==11.0.0
+pip-tools==7.4.1
 platformdirs==4.3.6
 plotly==5.24.1
 pyparsing==3.2.0
+pyproject_hooks==1.2.0
 pyquaternion==0.9.9
 python-dateutil==2.9.0.post0
 pytz==2024.2

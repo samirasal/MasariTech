@@ -4,5 +4,8 @@
 
 *.log
 
+*.pyc
+
 /virt
+/venv_backend
 .python-version
