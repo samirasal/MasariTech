@@ -1,4 +1,4 @@
-# General Installation
+# General
 
 _Note: you MUST have python 3.11 installed for this project to work._
 
@@ -42,15 +42,15 @@ python3.11 -m venv venv_backend
 source venv_backend/bin/activate
 ```
 
-### Deactivate the virtual environment
-
-```bash
-deactivate
-```
-
 ### Run the server
 
 ```bash
 cd backend
 fastapi dev api_server.py
+```
+
+### Deactivate the virtual environment
+
+```bash
+deactivate
 ```
